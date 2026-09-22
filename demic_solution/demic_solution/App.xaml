@@ -1,0 +1,12 @@
+﻿<Application x:Class="demic_solution.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:demic_solution"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Page">
+            <Setter Property="FontFamily" Value="Calibri"/>
+
+        </Style>
+    </Application.Resources>
+</Application>
